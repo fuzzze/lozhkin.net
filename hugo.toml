@@ -4,12 +4,12 @@ title = 'Lozhkin'
 theme = 'anatole'
 [menu]
   [[menu.main]]
-    identifier = "home"
+    identifier = "Главная"
     name = "Home"
     url = "/"
     weight = 1
   [[menu.main]]
-    identifier = "posts"
+    identifier = "Блог"
     name = "Posts"
     url = "/posts/"
     weight = 2
