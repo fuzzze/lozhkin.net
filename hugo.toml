@@ -1,0 +1,25 @@
+baseURL = 'https://lozhkin.net/'
+languageCode = 'en-us'
+title = 'Lozhkin'
+theme = 'anatole'
+[menu]
+  [[menu.main]]
+    identifier = "Главная"
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    identifier = "Блог"
+    name = "Posts"
+    url = "/posts/"
+    weight = 2
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 3
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 4
